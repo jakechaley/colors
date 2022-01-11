@@ -8,7 +8,7 @@ $(document).ready(function() {
     $("body").addClass("yellow-background");
   });
   $("button#red").click(function() {
-    $("body").removeClass();
+    
     $("body").addClass("red-background");
   });
 });
